@@ -1,0 +1,7 @@
+author: Sun-Soaked
+delete-after: true
+changes:
+  - admin: tickets should now display player pms
+  - admin: tickets going stale will no longer cause new player responses to open
+      a new ticket, causing a ton of random tickets to gradually pile up and 
+      player responses to be split weirdly between different tickets
