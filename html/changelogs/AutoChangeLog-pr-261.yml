@@ -1,0 +1,6 @@
+author: BartDrown
+delete-after: true
+changes:
+  - bugfix: character preferences not saving due to file lock
+  - bugfix: character prefs not loading
+  - bugfix: skin tone not changing in character setup menu
