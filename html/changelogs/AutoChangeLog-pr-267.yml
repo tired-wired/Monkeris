@@ -1,0 +1,11 @@
+author: Handyman, Sun-Soaked
+delete-after: true
+changes:
+  - balance: gun melee dmg is now built from grip, stock, and base, instead of 
+      just coming from base
+  - bugfix: AMR no longer has infinite ammo capacity
+  - bugfix: The MK58's magazine now works consistently
+  - bugfix: dmg mod on mechanisms now works properly
+  - code_imp: modguns can now have their firing sounds set by parts
+  - code_imp: the modgun path has been changed from 
+      gun/projectile/automatic/modular to gun/projectile/modular
