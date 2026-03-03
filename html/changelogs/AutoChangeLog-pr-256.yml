@@ -1,0 +1,6 @@
+author: BartDrown
+delete-after: true
+changes:
+  - bugfix: stat panel flickering
+  - bugfix: stat panel items not interactable
+  - bugfix: disposal unit ui fix
