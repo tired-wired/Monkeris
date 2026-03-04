@@ -1,4 +1,0 @@
-author: BartDrown
-delete-after: true
-changes:
-  - bugfix: produce bag groups grown plants by name
