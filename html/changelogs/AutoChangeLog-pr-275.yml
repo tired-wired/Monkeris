@@ -1,0 +1,5 @@
+author: datlo
+delete-after: true
+changes:
+  - tweak: "Add cyborg panel locking handling when you are too damaged : it now says
+      that you can't"
