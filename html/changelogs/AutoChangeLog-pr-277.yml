@@ -1,0 +1,4 @@
+author: Sun-Soaked
+delete-after: true
+changes:
+  - bugfix: toggleable robes no longer cause runtimes due to missing arg setup
