@@ -22,3 +22,7 @@
   - admin: tickets going stale will no longer cause new player responses to open a
       new ticket, causing a ton of random tickets to gradually pile up and player
       responses to be split weirdly between different tickets
+2026-03-06:
+  datlo:
+  - tweak: 'Add cyborg panel locking handling when you are too damaged : it now says
+      that you can''t'
