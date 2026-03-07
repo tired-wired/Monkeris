@@ -26,3 +26,6 @@
   datlo:
   - tweak: 'Add cyborg panel locking handling when you are too damaged : it now says
       that you can''t'
+2026-03-07:
+  Sun-Soaked:
+  - bugfix: toggleable robes no longer cause runtimes due to missing arg setup
